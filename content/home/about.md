@@ -17,11 +17,11 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Mathematics"
+  course = "**PhD** in **Mathematics**"
   institution = "Courant Institute, New York University"
 
 [[education.courses]]
-  course = "AB in Mathematics and Physics"
+  course = "**AB** in **Mathematics** and **Physics**"
   institution = "Harvard University"
  
 +++
