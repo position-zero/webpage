@@ -10,15 +10,15 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Differential geometry",
+    "Conformal field theories",
+    "Geometric analysis"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "Ph.D. in Mathematics"
-  institution = "Courant Institute of Mathematics, New York University"
+  institution = "New York University"
 
 [[education.courses]]
   course = "A.B. in Mathematics & Physics"
